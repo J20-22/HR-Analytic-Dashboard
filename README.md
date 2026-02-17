@@ -1,4 +1,5 @@
 -- This project presents an interactive HR Analytics Dashboard built using Tableau to analyze employee attrition, workforce demographics, job satisfaction, and departmental trends.
+
 -- The goal of this project is to transform raw HR data into meaningful insights that help organizations make data-driven workforce decisions.
 
 🎯 Business Problem
